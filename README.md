@@ -11,6 +11,9 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -78,15 +81,40 @@ Clone this repository to your desired folder:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- Install -->
+
+### Install
+
+Install this project with:
+
+```sh
+  npm install or npm i 
+```
+<!-- Usage -->
+
+### Usage
+
+To run the project, open index.html with your preferred web browser or open it with a live server from your code editor, I recommend using [Live Server by Ritwick Dey](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+<!-- Run tests -->
+
+### Run tests
+
+To run tests, run the following command:
+
+```sh
+  npm test
+```
+
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 **Nati Gebregorgis**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@NatiG25](https://github.com/NatiG25)
+- Twitter: [@NatiG255](https://twitter.com/NatiG255)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/natnailgorgis/ )
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,9 +122,9 @@ Clone this repository to your desired folder:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Add projects]**
-- [ ] **[Add swiper]**
-- [ ] **[Use Grid]**
+- **[Add projects]**
+- **[Add swiper]**
+- **[Use Grid]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
